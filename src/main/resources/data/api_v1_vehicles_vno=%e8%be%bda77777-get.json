@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "description":"查询车辆不是有效范围内车辆",
+  "payload":
+{
+     "vehicleId": "915229510938",
+            "vin": "24444351",
+            "evdevId": "22233436",
+            "devId": "22233436543",
+            "faultType": "null",
+            "vno": "辽A77777",
+            "factoryTime": "2015-11-26 00:00:00",
+            "createDate": "2015-11-26 11:57:38",
+            "createBy": "1",
+            "updateDate": "2015-11-30 09:00:55",
+            "updateBy": "1",
+            "vehicleMode": {
+                "vehicleModeId": "8",
+                "vehicleModelName": "北汽EV150",
+                "cityId": "2",
+                "vehicleModel": "2",
+                "seatsNumber": "5",
+                "maxMileage": "0",
+                "pictureUrl": "/rental-web/userfiles/1/images/vehicle/rtVehicle/2015/12/EV150.jpg",
+                "deposit": "0.00",
+                "discountId": "null",
+                "billingTemplateId": "2",
+                "createDate": "2015-11-26 11:55:50"
+            },
+            "vehicleRealtime": {
+                "rentalId": "1",
+                "vehicleStatus": "1",
+                "vehicleMileage": "30",
+                "power": "30",
+                "createDate": "2015-11-26 11:57:38"
+            }
+}
+}

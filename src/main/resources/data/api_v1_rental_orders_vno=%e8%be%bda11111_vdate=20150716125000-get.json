@@ -1,0 +1,26 @@
+{
+    "code": 0,
+    "description": "success",
+    "payload": {
+        "orderId": 1,
+        "vehicleId": 1,
+        "userId": 1,
+        "bookTime": "1437018623000",
+        "orderStatus": 2,
+        "billingStime": "1437018623000",
+        "billingEtime": "1437025823000",
+        "branchSid": 1,
+        "branchEid": 2,
+        "firstUnitBilling": 8,
+        "addUnitBilling": 5,
+        "rentalCost": 2000,
+        "actualPayment": 1000,
+        "terminateDesc": "旅游结束了",
+        "createDate": "1483188203000",
+        "createBy": "admin",
+        "updateDate": "1483188203000",
+        "updateBy": "admin",
+        "remarks": "海南旅游团",
+        "delFlag": 0
+    }
+}

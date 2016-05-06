@@ -1,0 +1,26 @@
+{
+    "code": 0, 
+    "description":"网点信息获取失败",
+    "payload": 
+            {
+                "rentalShopId": 1, 
+                "name": "浑南网点", 
+                "status": 1, 
+                "cityId": "22", 
+                "areaId": "22", 
+                "street": "22", 
+                "address": "22", 
+                "longitude": "22", 
+                "latitude": "22", 
+                "lotNumber": 2, 
+                "description": "2222", 
+                "introPictureUrl": "2222", 
+                "discountId": 2, 
+                "createDate": "2016-02-02 12:12:12", 
+                "createBy": "aaaa", 
+                "updateAt": "2016-02-02 12:12:12", 
+                "updateDate": "aaaa", 
+                "remarks": "aaaa",
+                "delFlag": "0"
+            }
+}

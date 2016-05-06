@@ -1,0 +1,6 @@
+{
+  "code": 0,
+  "description":"查询车辆不是有效范围内车辆",
+  "payload":
+{"vehicleId":"9152295109388321626","vin":"LNBSCB3F3FD110816","evdevId":"VRXA1511180018","devId":"459710040560758","faultType":"null","vno":"辽B8AV10","factoryTime":"2016-04-01 00:00:00","vehicleModelId":null,"createDate":"2016-04-01 16:42:26","createBy":"1","updateDate":"2016-04-25 15:10:38","updateBy":"1","vehicleMode":{"vehicleModeId":null,"vehicleModelName":null,"cityId":null,"vehicleModel":null,"seatsNumber":null,"maxMileage":null,"pictureUrl":null,"deposit":null,"discountId":null,"billingTemplateId":null,"createDate":null},"vehicleRealtime":{"rentalId":null,"vehicleStatus":null,"vehicleMileage":null,"power":null,"createDate":null}}
+}
